@@ -524,12 +524,12 @@ body {
 }
 
 .custom-btn-style-1:after {
-  border-left-color: #253117;
+  border-left-color: #115D70;
 }
 
 .custom-btn-style-1:hover:after,
 .custom-btn-style-1.hover:after {
-  border-left-color: #253117;
+  border-left-color: #115D70;
 }
 
 .custom-btn-style-1:focus:after,
@@ -539,7 +539,7 @@ body {
 
 .custom-btn-style-1.disabled:after,
 .custom-btn-style-1:disabled:after {
-  border-left-color: #253117;
+  border-left-color: #115D70;
 }
 
 .custom-btn-style-1:active:after,
@@ -550,7 +550,7 @@ body {
 .custom-svg-btn-style-1:not(.custom-svg-btn-style-1-light):hover
   .custom-svg-btn-background
   polygon {
-  stroke: #253117;
+  stroke: #115D70;
 }
 
 .custom-svg-btn-style-1:not(
@@ -558,8 +558,8 @@ body {
   ).custom-svg-btn-style-1-solid
   .custom-svg-btn-background
   polygon {
-  fill: #253117;
-  stroke: #253117;
+  fill: #115D70;
+  stroke: #115D70;
 }
 
 .custom-svg-btn-style-1:not(
@@ -572,13 +572,13 @@ body {
   ).custom-svg-btn-style-1-solid:focus
   .custom-svg-btn-background
   polygon {
-  fill: #253117;
-  stroke: #253117;
+  fill: #115D70;
+  stroke: #115D70;
 }
 
 .btn-link > svg polygon {
-  stroke: #253117;
-  fill: #253117;
+  stroke: #115D70;
+  fill: #115D70;
 }
 
 /*
@@ -597,12 +597,12 @@ body {
 * Home Section - What We Do
 */
 .custom-thumb-info-style-1:hover .custom-thumb-info-icon {
-  background: #253117 !important;
+  background: #115D70 !important;
 }
 
 /*
 * Home Section - Testimonials
 */
 .custom-testimonial-style-1.testimonial.testimonial-style-3 blockquote:before {
-  color: #253117;
+  color: #115D70;
 }

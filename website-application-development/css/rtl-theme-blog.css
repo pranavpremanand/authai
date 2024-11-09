@@ -375,10 +375,10 @@ ul.simple-post-list .post-info {
 /* Blog - Skin */
 .recent-posts .date .month,
 article.post .post-date .month {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .recent-posts .date .day,
 article.post .post-date .day {
-  color: #253117;
+  color: #115D70;
 }

@@ -1117,7 +1117,7 @@ article.blog-post .blog-post-image-wrapper .blog-post-date .month-year {
 
 /* Skin */
 .dropdown-menu > li > a i {
-  color: #253117;
+  color: #115D70;
 }
 
 html #header.header-semi-transparent .header-body:before,
@@ -1127,7 +1127,7 @@ html #header.header-semi-transparent-light .header-body:before {
 
 @media (min-width: 992px) {
   #header .header-nav-main.header-nav-main-square nav > ul > li.active > a {
-    color: #253117 !important;
+    color: #115D70 !important;
   }
   #header
     .header-nav-main.header-nav-main-square
@@ -1135,10 +1135,10 @@ html #header.header-semi-transparent-light .header-body:before {
     > ul
     > li.active
     > a.dropdown-toggle::after {
-    border-color: #253117 transparent transparent !important;
+    border-color: #115D70 transparent transparent !important;
   }
   #header .header-nav-main.header-nav-main-square nav > ul > li:hover > a {
-    color: #253117 !important;
+    color: #115D70 !important;
   }
   #header
     .header-nav-main.header-nav-main-square
@@ -1146,15 +1146,15 @@ html #header.header-semi-transparent-light .header-body:before {
     > ul
     > li:hover
     > a.dropdown-toggle::after {
-    border-color: #253117 transparent transparent !important;
+    border-color: #115D70 transparent transparent !important;
   }
 }
 
 .btn-primary.active:not([disabled]):not(.disabled),
 .btn-primary:active:not([disabled]):not(.disabled),
 .show > .btn-primary.dropdown-toggle {
-  background-color: #253117;
-  border-color: #253117;
+  background-color: #115D70;
+  border-color: #115D70;
   box-shadow: 0 0 0 0.2rem var(--primary-rgba-50);
 }
 
@@ -1169,7 +1169,7 @@ html #header.header-semi-transparent-light .header-body:before {
 }
 
 .custom-call-to-action {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 @media (max-width: 991px) {
@@ -1182,14 +1182,14 @@ html #header.header-semi-transparent-light .header-body:before {
   .card
   .card-title
   > a.accordion-toggle:not(.collapsed) {
-  color: #253117;
+  color: #115D70;
 }
 
 .custom-accordion-style-1
   .card
   .card-title
   > a.accordion-toggle:not(.collapsed):before {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 .custom-accordion-style-1
@@ -1197,41 +1197,41 @@ html #header.header-semi-transparent-light .header-body:before {
   .card-title
   > a.accordion-toggle:not(.collapsed)
   .custom-accordion-plus:after {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 .custom-accordion-style-1 .card .card-title > a .custom-accordion-plus:after {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 .thumb-info.custom-thumb-info-style-1:hover .thumb-info-caption {
-  background-color: #253117 !important;
+  background-color: #115D70 !important;
 }
 
 .owl-carousel.custom-dots-style-1 button.owl-dot.active span,
 .owl-carousel.custom-dots-style-1 button.owl-dot:hover span {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 .owl-carousel.custom-dots-style-1 button.owl-dot.active span:before,
 .owl-carousel.custom-dots-style-1 button.owl-dot:hover span:before {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .team-item .team-infos .share:hover i.fa-share-alt {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-prev:before,
 .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-next:before,
 .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-prev:before,
 .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-next:before {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-prev:after,
 .owl-carousel.custom-arrows-style-2 .owl-nav button.owl-next:after,
 .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-prev:after,
 .owl-carousel.custom-xs-arrows-style-2 .owl-nav button.owl-next:after {
-  border-color: #253117;
+  border-color: #115D70;
 }

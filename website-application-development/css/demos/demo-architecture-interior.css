@@ -194,25 +194,25 @@ body {
 
 /* Skin */
 .custom-square-1 rect {
-  stroke: #253117;
-  fill: #253117;
+  stroke: #115D70;
+  fill: #115D70;
 }
 
 .custom-featured-boxes-style-1 .featured-box:hover .box-content {
-  border: 7px solid #253117;
+  border: 7px solid #115D70;
 }
 
 .custom-featured-boxes-style-1 .featured-box:hover .box-content svg {
-  fill: #253117;
+  fill: #115D70;
 }
 
 .custom-thumb-info-style-1 .thumb-info-wrapper:after {
-  background: #253117;
+  background: #115D70;
 }
 
 .custom-testimonial-colored-quotes.testimonial-with-quotes blockquote:before,
 .custom-testimonial-colored-quotes.testimonial-with-quotes blockquote:after {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 @keyframes customTextColored {
@@ -220,7 +220,7 @@ body {
     color: var(--light);
   }
   to {
-    color: #253117;
+    color: #115D70;
   }
 }
 
@@ -233,7 +233,7 @@ body {
     border-color: #43474a;
   }
   to {
-    border-color: #253117;
+    border-color: #115D70;
   }
 }
 

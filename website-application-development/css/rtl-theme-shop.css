@@ -916,12 +916,12 @@ html.lightbox-beforeclose .quick-view {
 
 /* Shop - Skin */
 .shop .products .product .onsale {
-  background-color: #253117;
-  border-bottom-color: #253117;
+  background-color: #115D70;
+  border-bottom-color: #115D70;
 }
 
 .shop .cart-totals tr.total .amount {
-  color: #253117;
+  color: #115D70;
 }
 
 .shop .products .product .quick-view {
@@ -929,14 +929,14 @@ html.lightbox-beforeclose .quick-view {
 }
 
 .shop .products .product:hover .quick-view:hover {
-  background: #253117;
+  background: #115D70;
 }
 
 .product .product-thumb-info .addtocart-btn-wrapper .addtocart-btn:hover {
   color: var(--primary-inverse);
-  background: #253117;
+  background: #115D70;
 }
 
 .product .product-thumb-info .countdown-offer-wrapper {
-  background: #253117;
+  background: #115D70;
 }

@@ -309,11 +309,11 @@ body {
   stop-color: var(--secondary) !important;
 }
 .custom-svg-linear-gradient stop:nth-child(2) {
-  stop-color: #253117 !important;
+  stop-color: #115D70 !important;
 }
 path.custom-svg-fill-color-primary,
 circle.custom-svg-fill-color-primary {
-  fill: #253117 !important;
+  fill: #115D70 !important;
 }
 path.custom-svg-fill-color-secondary,
 circle.custom-svg-fill-color-secondary {

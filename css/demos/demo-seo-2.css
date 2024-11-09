@@ -856,7 +856,7 @@ html.sticky-header-active
 /* Custom Colors For SVG's */
 .custom-fill-color-primary,
 .custom-fill-color-primary > svg path {
-  fill: #253117 !important;
+  fill: #115D70 !important;
 }
 
 .custom-fill-color-secondary,
@@ -929,5 +929,5 @@ html.sticky-header-active
 .custom-pagination-style-1 .page-item.active .page-link,
 .custom-pagination-style-1 .page-item:hover .page-link {
   border-color: var(--secondary);
-  background-color: #4a4e54 !important;
+  background-color: #171717 !important;
 }

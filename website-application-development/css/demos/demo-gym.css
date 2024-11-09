@@ -688,7 +688,7 @@ html
   > li
   > span
   .item-two {
-  color: #253117;
+  color: #115D70;
 }
 
 @media (max-width: 991px) {
@@ -696,7 +696,7 @@ html
     #header.custom-header-style-1
     .custom-sm-btn-header-style-1
     > .btn:not(.header-btn-collapse-nav) {
-    color: #253117;
+    color: #115D70;
   }
   html
     #header.custom-header-style-1
@@ -712,7 +712,7 @@ html
     > ul
     > li
     > a.item-original.active {
-    color: #253117;
+    color: #115D70;
   }
 }
 

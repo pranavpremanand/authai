@@ -451,7 +451,7 @@ body {
 
 /* Skin */
 a.text-primary:hover {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 a.text-secondary:hover {
@@ -463,11 +463,11 @@ a.text-tertiary:hover {
 }
 
 .custom-btn:hover {
-  border-color: #253117;
+  border-color: #115D70;
 }
 
 .custom-button-white:hover {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 .custom-portfolio .nav-link {
@@ -475,35 +475,35 @@ a.text-tertiary:hover {
 }
 
 .custom-portfolio .nav-item:hover {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 [data-carousel-navigate]:hover h4,
 [data-carousel-navigate].active h4 {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 [data-carousel-navigate]:hover:before,
 [data-carousel-navigate].active:before {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 /*
 * Cards
 */
 .custom-card:hover:before {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .custom-card-style-2:before {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 /*
 * Testimonial
 */
 .custom-testimonial blockquote:before {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 /*
@@ -511,7 +511,7 @@ a.text-tertiary:hover {
 */
 .custom-tabs .nav-item.active,
 .custom-tabs .nav-item:hover {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .custom-tabs .nav-item .nav-link {

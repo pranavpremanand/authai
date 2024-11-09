@@ -626,7 +626,7 @@ body {
 
 /* Skin */
 .border-color-active-primary:active {
-  border-color: #253117 !important;
+  border-color: #115D70 !important;
 }
 
 @media (min-width: 992px) {
@@ -634,6 +634,6 @@ body {
   #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li:focus > a,
   #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li.active > a,
   #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li:active > a {
-    color: #253117 !important;
+    color: #115D70 !important;
   }
 }

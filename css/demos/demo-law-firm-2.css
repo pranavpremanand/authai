@@ -500,26 +500,26 @@ h6 {
 * Accordion
 */
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed):after {
-  color: #253117;
+  color: #115D70;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a:after {
-  color: #253117;
+  color: #115D70;
 }
 
 /*
 * Background
 */
 .bg-primary-darken {
-  background-color: #253117 !important;
+  background-color: #115D70 !important;
 }
 
 /*
@@ -527,34 +527,34 @@ h6 {
 */
 .custom-btn-primary-darken {
   color: var(--primary-inverse);
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .custom-btn-primary-darken.active,
 .custom-btn-primary-darken:focus,
 .custom-btn-primary-darken:hover {
   color: var(--primary-inverse);
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 /*
 * Cards
 */
 .custom-card-style-1:hover .card-title {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 /*
 * Social Icons
 */
 .social-icons.custom-social-icons-style-1 li a {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
 
 /*
 * Custom See More Overlay
 */
 .custom-seemore-overlay .custom-seemore-overlay-button:before {
-  background: #253117;
-  background: linear-gradient(180deg, rgba(2, 0, 36, 0) 0%, #253117 100%);
+  background: #115D70;
+  background: linear-gradient(180deg, rgba(2, 0, 36, 0) 0%, #115D70 100%);
 }

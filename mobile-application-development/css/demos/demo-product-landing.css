@@ -298,5 +298,5 @@ html:not(.sticky-header-active) #header .header-body.header-border-bottom {
 /* Product Carousel Thumb Gallery */
 .thumb-gallery-wrapper .thumb-gallery-thumbs .owl-item:hover,
 .thumb-gallery-wrapper .thumb-gallery-thumbs .owl-item.selected {
-  border-color: #253117;
+  border-color: #115D70;
 }

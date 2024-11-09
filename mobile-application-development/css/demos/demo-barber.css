@@ -434,16 +434,16 @@ body {
 
 /* Skin */
 .svg-primary circle {
-  stroke: #253117;
-  fill: #253117;
+  stroke: #115D70;
+  fill: #115D70;
 }
 
 .custom-side-dots:before,
 .custom-side-dots:after {
-  background-color: #253117;
+  background-color: #115D70;
 }
 
 .custom-working-hours .custom-working-hours-item:hover,
 .custom-working-hours .custom-working-hours-item.active {
-  background-color: #253117;
+  background-color: #115D70;
 }

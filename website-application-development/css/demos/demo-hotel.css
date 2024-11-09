@@ -426,10 +426,10 @@ html.boxed.sticky-header-active #header .header-container {
     > li.dropdown-mega-book-now
     > a
     > span {
-    background: #253117;
+    background: #115D70;
   }
 }
 
 .custom-nav-sidebar > li > a.active {
-  color: #253117 !important;
+  color: #115D70 !important;
 }
