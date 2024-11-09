@@ -422,10 +422,10 @@ body {
   border-color: var(--secondary);
 }
 .testimonial.custom-testimonial-style-1.testimonial-style-4 blockquote:before {
-  color: #115D70;
+  color: #FA4F41;
 }
 .custom-pagination-style-1 .page-item.active .page-link,
 .custom-pagination-style-1 .page-item:hover .page-link {
-  border-color: #115D70;
-  background-color: #115D70 !important;
+  border-color: #FA4F41;
+  background-color: #FA4F41 !important;
 }

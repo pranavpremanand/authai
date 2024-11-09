@@ -550,11 +550,11 @@ body {
 * Icon Style
 */
 .custom-icon-style-1:before {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 .custom-icon-box-style-1:hover .custom-icon-style-1:before {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 .custom-icon-box-style-1:hover .custom-icon-style-1 svg path {
@@ -562,50 +562,50 @@ body {
 }
 
 .custom-icon-box-style-1:hover h3 {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 /*
 * Thumb Info
 */
 .custom-thumb-info-style-1:hover .thumb-info-wrapper {
-  border-color: #115D70 !important;
+  border-color: #FA4F41 !important;
 }
 
 .custom-thumb-info-style-1:hover h3 {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 /*
 * Testimonial
 */
 .custom-testimonial-style-1.testimonial-with-quotes blockquote:before {
-  color: #115D70;
+  color: #FA4F41;
 }
 
 /*
 * Accordion
 */
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-  background-color: #115D70;
+  background-color: #FA4F41;
   color: var(--primary-inverse) !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a.collapsed {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 /*
 * Services Detail - Nav List
 */
 .custom-nav-list-effect-1 > li > a:before {
-  border-top-color: #115D70;
+  border-top-color: #FA4F41;
 }
 
 .custom-nav-list-effect-1 > li.active > a,
 .custom-nav-list-effect-1 > li.open > a,
 .custom-nav-list-effect-1 > li:hover > a {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 /*
@@ -614,23 +614,23 @@ body {
 .datepicker thead tr:first-child th:hover,
 .datepicker tfoot tr th:hover,
 .datepicker table tr td span:hover {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 .datepicker .datepicker-switch:hover,
 .datepicker .prev:hover,
 .datepicker .next:hover {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 .datepicker table thead tr:last-child th:hover {
-  color: #115D70;
+  color: #FA4F41;
 }
 
 .datepicker table tbody tr td.day:hover {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 .datepicker table tbody tr td.day.active {
-  background: #115D70;
+  background: #FA4F41;
 }

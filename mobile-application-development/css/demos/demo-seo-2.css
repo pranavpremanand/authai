@@ -856,7 +856,7 @@ html.sticky-header-active
 /* Custom Colors For SVG's */
 .custom-fill-color-primary,
 .custom-fill-color-primary > svg path {
-  fill: #115D70 !important;
+  fill: #FA4F41 !important;
 }
 
 .custom-fill-color-secondary,

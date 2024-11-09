@@ -121,10 +121,10 @@
 /* Skin */
 /* Carousel */
 .custom-carousel-nav-style-1 .owl-nav button[class*="owl-"] {
-  border-color: #115D70;
-  color: #115D70;
+  border-color: #FA4F41;
+  color: #FA4F41;
 }
 
 .custom-carousel-nav-style-1 .owl-nav button[class*="owl-"]:hover {
-  background: #115D70 !important;
+  background: #FA4F41 !important;
 }

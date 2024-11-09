@@ -388,13 +388,13 @@ p {
 
 .custom-social-icons-2 li:hover,
 .custom-social-icons-big li:hover {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 .custom-social-icons-2 li:hover a,
 .custom-social-icons-big li:hover a {
   background: transparent !important;
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 .custom-social-icons-big {
@@ -1209,16 +1209,16 @@ ul.custom-comments-style .comment-block {
 
 .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-prev:before,
 .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-next:before {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-prev:after,
 .owl-carousel.custom-arrows-style-1 .owl-nav button.owl-next:after {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 .custom-social-icons li:hover a {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 .custom-thumb-carousel .img-thumbnail.img-thumbnail-hover-icon:before {
@@ -1231,10 +1231,10 @@ ul.custom-comments-style .comment-block {
 
 .custom-social-icons-2 li:hover,
 .custom-social-icons-big li:hover {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 .custom-social-icons-2 li:hover a,
 .custom-social-icons-big li:hover a {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }

@@ -776,22 +776,22 @@ html.lightbox-beforeclose .quick-view {
   }
 }
 .shop .products .product .onsale {
-  background-color: #115D70;
-  border-bottom-color: #115D70;
+  background-color: #FA4F41;
+  border-bottom-color: #FA4F41;
 }
 .shop .cart-totals tr.total .amount {
-  color: #115D70;
+  color: #FA4F41;
 }
 .shop .products .product .quick-view {
   background: var(--primary-rgba-70);
 }
 .shop .products .product:hover .quick-view:hover {
-  background: #115D70;
+  background: #FA4F41;
 }
 .product .product-thumb-info .addtocart-btn-wrapper .addtocart-btn:hover {
   color: var(--primary-inverse);
-  background: #115D70;
+  background: #FA4F41;
 }
 .product .product-thumb-info .countdown-offer-wrapper {
-  background: #115D70;
+  background: #FA4F41;
 }

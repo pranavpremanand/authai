@@ -2579,11 +2579,11 @@ section.contact-details .feature-box a {
 html.photography-demo-2.sticky-header-enabled.sticky-header-active
   #header
   .header-body {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 html.photography-demo-2 #header.solid-header .header-body {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 html.photography-demo-2
@@ -2604,7 +2604,7 @@ html.photography-demo-2
   li
   a:first-child
   > .icons:first-child {
-  color: #115D70;
+  color: #FA4F41;
 }
 
 html.photography-demo-2 .portfolio-parallax-demo-2:before {
@@ -2654,7 +2654,7 @@ html.photography-demo-3
   li
   a:first-child
   > .icons:first-child {
-  color: #115D70;
+  color: #FA4F41;
 }
 
 /*

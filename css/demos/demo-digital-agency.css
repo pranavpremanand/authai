@@ -341,17 +341,17 @@
 * Tabs
 */
 .custom-tabs-style-1.tabs .nav-tabs .nav-link.active h4 {
-  color: #115D70;
+  color: #FA4F41;
 }
 
 /*
 * Accordion
 */
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-  background-color: #115D70;
+  background-color: #FA4F41;
   color: var(--primary-inverse) !important;
 }
 
 .custom-accordion-style-1 > .card:hover .card-header a.collapsed {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }

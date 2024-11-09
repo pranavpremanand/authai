@@ -197,7 +197,7 @@ html.sticky-header-active #header .header-body {
   }
   #header .header-nav-main nav > ul > li:hover > a,
   #header .header-nav-main nav > ul > li.open > a {
-    color: #115D70 !important;
+    color: #FA4F41 !important;
   }
 }
 
@@ -266,21 +266,21 @@ html.sticky-header-active #header .header-body {
 * Header
 */
 #header .header-nav-main nav > ul > li > a.active {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 #header .header-nav-main nav > ul > li > a.active:before {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 #header .header-nav-main nav > ul > li:hover > a.active,
 #header .header-nav-main nav > ul > li.open > a.active {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 #header .header-nav-main nav > ul > li:hover > a.active:before,
 #header .header-nav-main nav > ul > li.open > a.active:before {
-  border-color: #115D70;
+  border-color: #FA4F41;
 }
 
 /*

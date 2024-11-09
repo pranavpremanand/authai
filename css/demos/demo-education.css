@@ -248,14 +248,14 @@
 
 /* Slider */
 .custom-slider-text-1 em {
-  -webkit-text-stroke: 2px #115D70;
-  text-stroke: 2px #115D70;
+  -webkit-text-stroke: 2px #FA4F41;
+  text-stroke: 2px #FA4F41;
 }
 
 /* Feature Boxes */
 .feature-box-steps .feature-box-step-number em {
-  -webkit-text-stroke: 2px #115D70;
-  text-stroke: 2px #115D70;
+  -webkit-text-stroke: 2px #FA4F41;
+  text-stroke: 2px #FA4F41;
 }
 
 /* Custom Nav */

@@ -266,21 +266,21 @@
   color: #999;
 }
 .custom-highlight-text-1:before {
-  border-bottom-color: #115D70;
+  border-bottom-color: #FA4F41;
 }
 .custom-header-top-nav-background {
   position: relative;
 }
 .custom-header-top-nav-background:before {
-  background: #115D70;
+  background: #FA4F41;
 }
 .custom-header-top-nav-background:after {
   background: var(--primary--300);
 }
 .custom-accordion-style-1 > .card .card-header a:not(.collapsed) {
-  background-color: #115D70;
+  background-color: #FA4F41;
   color: var(--primary-inverse) !important;
 }
 .custom-accordion-style-1 > .card:hover .card-header a.collapsed {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }

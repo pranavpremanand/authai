@@ -116,7 +116,7 @@ p {
 }
 
 .btn-dash.text-color-primary:before {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 #header .header-container {
@@ -169,7 +169,7 @@ p {
 }
 
 .tabs-navigation-custom .nav-tabs .nav-item .nav-link.active:before {
-  background: #115D70;
+  background: #FA4F41;
 }
 
 .custom-marquee {

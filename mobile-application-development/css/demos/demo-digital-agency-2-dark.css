@@ -759,7 +759,7 @@ html.mobile-menu-opened.sticky-header-active
 }
 
 .custom-btn-with-arrow-primary:after {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 .custom-btn-with-arrow-secondary:after {
@@ -783,7 +783,7 @@ html.mobile-menu-opened.sticky-header-active
 }
 
 .custom-title-with-icon-primary:before {
-  color: #115D70 !important;
+  color: #FA4F41 !important;
 }
 
 .custom-title-with-icon-secondary:before {
@@ -814,7 +814,7 @@ html.mobile-menu-opened.sticky-header-active
 
 @media (min-width: 992px) {
   #header .header-nav.header-nav-links nav > ul li:hover > a {
-    color: #115D70 !important;
+    color: #FA4F41 !important;
   }
 }
 
@@ -827,7 +827,7 @@ html.mobile-menu-opened.sticky-header-active
 }
 
 .custom-list li:before {
-  background-color: #115D70;
+  background-color: #FA4F41;
 }
 
 .custom-accordion .custom-card-body-collapse {
@@ -835,7 +835,7 @@ html.mobile-menu-opened.sticky-header-active
 }
 
 .side-menu-our-work .sort-source li a:before {
-  background-color: #115D70;
+  background-color: #FA4F41;
 }
 
 #footer {

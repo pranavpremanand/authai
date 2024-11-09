@@ -374,7 +374,7 @@
     > ul
     > li
     > a {
-    color: #115D70;
+    color: #FA4F41;
   }
   #header
     .header-nav.header-nav-line:not(.header-nav-light-text)
@@ -387,9 +387,9 @@
 }
 
 .slider .slotholder:after {
-  background-color: #115D70;
+  background-color: #FA4F41;
 }
 
 .custom-thumb-info-style-1 .thumb-info-wrapper:after {
-  background: #115D70;
+  background: #FA4F41;
 }
