@@ -1,1 +1,1 @@
-# NviAi-Labs
+# Auth AI Solutions
