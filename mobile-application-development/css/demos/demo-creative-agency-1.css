@@ -1065,12 +1065,16 @@ p.lead {
   white-space: nowrap;
 }
 .custom-hero-font-1 {
-  font-size: calc(40px + 50 * ((100vw - 300px) / (1200 - 300)));
-  line-height: calc(40px + 50 * ((100vw - 300px) / (1200 - 300)));
+  /* font-size: calc(40px + 50 * ((100vw - 300px) / (1200 - 300))); */
+  font-size: calc(25px + 50 * ((100vw - 300px) / (1200 - 300)));
+  /* line-height: calc(40px + 50 * ((100vw - 300px) / (1200 - 300))); */
+  line-height: calc(25px + 50 * ((100vw - 300px) / (1200 - 300)));
 }
 .custom-hero-font-2 {
-  font-size: calc(40px + 50 * ((100vw - 300px) / (1200 - 300)));
-  line-height: calc(40px + 50 * ((100vw - 300px) / (1200 - 300)));
+  /* font-size: calc(40px + 50 * ((100vw - 300px) / (1200 - 300))); */
+  font-size: calc(10px + 20 * ((100vw - 300px) / (1200 - 300)));
+  /* line-height: calc(40px + 50 * ((100vw - 300px) / (1200 - 300))); */
+  line-height: calc(10px + 20 * ((100vw - 300px) / (1200 - 300)));
 }
 .custom-el-1 {
   margin-right: -30vw;
