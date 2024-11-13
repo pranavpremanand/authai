@@ -302,7 +302,85 @@
 
 					</section>
 
+					<section
+					class="d-xl-flex flex-row p-relative vh-xl-100 min-vh-xl-100 justify-content-center align-items-center bg-color-secondary"
+					id="contact">
 
+					<div
+						class="min-vw-xl-75 custom-ws-initial min-vh-xl-100 d-flex align-items-center p-relative overflow-hidden">
+
+						<div class="p-absolute custom-el-5">
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-1.6"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-1.3"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-1.0"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.7"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.3"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.0"></span>
+						</div>
+
+						<div class="p-absolute custom-el-6 d-none d-xl-block">
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.0"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.2"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.4"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.6"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-0.8"></span>
+							<span class="custom-el-4" data-scroll data-scroll-direction="vertical"
+								data-scroll-speed="-1.0"></span>
+						</div>
+
+						<div class="p-5 text-color-light w-100 text-center p-relative z-index-1">
+
+							<div class="container-fluid w-100 mt-5 ms-xl-5">
+								<div class="row mb-4 justify-content-center">
+									<div class="col-xl-5 text-center">
+										<h2 class="text-color-light">Get In Touch</h2>
+									</div>
+								</div>
+								<div class="row mb-4 justify-content-center">
+									<form onsubmit="handleSubmitForm(event)" class="col-xl-5 text-start">
+										<div class="w-100 d-flex justify-content-center ">
+											<input id="name" type="text" required class="w-100 outline-none p-2" placeholder="Name" style="border-radius: 5px;">
+										</div>
+										<div class="w-100 d-flex justify-content-center mt-3">
+											<input inputmode="numeric" id="phone" type="phone" required class="w-100 outline-none p-2" placeholder="Phone" style="border-radius: 5px;">
+										</div>
+										<div class="w-100 d-flex justify-content-center mt-3">
+											<input id="email" type="email" required class="w-100 outline-none p-2" placeholder="Email" style="border-radius: 5px;">
+										</div>
+										<div class="w-100 d-flex justify-content-center mt-3">
+											<input id="subject" type="text" required class="w-100 outline-none p-2" placeholder="Subject" style="border-radius: 5px;">
+										</div>
+										<div class="w-100 d-flex justify-content-center mt-3">
+											<textarea id="message" rows="3" required maxlength="500" class="w-100 outline-none p-2" placeholder="Message" style="border-radius: 5px;"></textarea>
+										</div>
+										<div class="w-100 mx-auto row mt-3">
+											<button id="submit-btn" type="submit" style="background-color: #FA4F41; text-align: center; border-radius: 5px;"
+											class="transform3dy-n80 outline-none border-0 p-2 text-white w-100">
+											Submit
+										</button>
+										<p style="color: red;" id="error-message"></p>
+										<p style="color: green;" id="success-message"></p>
+									</div>
+									</form>
+									
+								</div>
+							</div>
+
+						</div>
+					</div>
+
+				</section>
 
 					<section
 						class="d-xl-flex flex-row p-relative vh-xl-100 min-vh-xl-100 justify-content-center align-items-center bg-color-secondary"
@@ -439,6 +517,10 @@
 		</div>
 	</div>
 
+	
+
+	<!-- Submit form -->
+	<script src="submit-form.js"></script>
 
 	<!-- Vendor -->
 	<script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
